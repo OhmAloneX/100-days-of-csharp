@@ -6,13 +6,13 @@ namespace Playground
     {
         static void Main(string[] args)
         {
-            string name = "Jay";
             int age = 20;
-            string bday = "June";
-            int date_day = 01;
-            int date_year = 2005;
+            double height = 172.44132434242343D;
+            char middle = 'S';
+            bool my_bool = true;
+            string name = "M-jay";
 
-            Console.WriteLine("My name is M-jay but you can call me " + name + ". I am " + age + " years old. " + "My birthday was on " + bday + " " + date_day + ", " + date_year + ".");
+            Console.WriteLine($"Hi, Im {name} {middle}. Vergonio, I'm {age} years of age. My height is {height:F2} and If you ask that I am currently studying my answer is {my_bool}! ");
         }
     }
 }

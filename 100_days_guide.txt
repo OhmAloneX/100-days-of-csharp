@@ -1,0 +1,208 @@
+🚀 100 Days of Code – C# Roadmap with GitHub Tasks
+Phase 1: Fundamentals (Day 1–20)
+
+Day 1: Setup Visual Studio / VS Code, "Hello World" program.
+
+Day 2: Variables & data types (build a simple calculator).
+
+Day 3: If-else conditions (grading system).
+
+Day 4: Switch-case (simple menu app).
+
+Day 5: Loops (print patterns with *).
+
+Day 6: Arrays (store student names).
+
+Day 7: Methods (factorial, Fibonacci).
+
+Day 8: Strings (palindrome checker).
+
+Day 9: Exception handling (division by zero).
+
+Day 10: Date & Time app (countdown timer).
+
+Day 11: Random number generator (guessing game).
+
+Day 12: Build a mini To-Do list (console).
+
+Day 13: Create a simple banking system (deposit/withdraw).
+
+Day 14: Explore enum & constants.
+
+Day 15: Use Lists & Collections.
+
+Day 16: Dictionary (word meaning app).
+
+Day 17: File I/O (read & write text file).
+
+Day 18: File I/O JSON (store student info).
+
+Day 19: Simple Math Quiz game.
+
+Day 20: Mini project → Student Management (add, search, delete).
+
+Phase 2: OOP & Advanced C# (Day 21–50)
+
+Day 21: Create a class (Car with properties).
+
+Day 22: Add methods (Car accelerate/brake).
+
+Day 23: Constructors & destructors.
+
+Day 24: Inheritance (Animal → Dog, Cat).
+
+Day 25: Polymorphism (shapes area calc).
+
+Day 26: Interfaces (IShape example).
+
+Day 27: Abstract classes.
+
+Day 28: Static vs instance members.
+
+Day 29: Properties & encapsulation.
+
+Day 30: Structs.
+
+Day 31: Generic List examples.
+
+Day 32: Generic methods.
+
+Day 33: Stack & Queue implementations.
+
+Day 34: LinkedList example.
+
+Day 35: LINQ basics.
+
+Day 36: LINQ filtering, sorting.
+
+Day 37: Lambda expressions.
+
+Day 38: Delegates.
+
+Day 39: Events.
+
+Day 40: Mini project → Library System (borrow, return books).
+
+Day 41: Collections & LINQ combined.
+
+Day 42: File handling with OOP.
+
+Day 43: Exception hierarchy.
+
+Day 44: Async & Await basics.
+
+Day 45: Task Parallel Library.
+
+Day 46: JSON serialization with classes.
+
+Day 47: XML serialization.
+
+Day 48: Build a Contact Book (with file save/load).
+
+Day 49: Mini project → Inventory Management System.
+
+Day 50: Review & Refactor previous projects.
+
+Phase 3: Databases, APIs, GUI (Day 51–80)
+
+Day 51: ADO.NET basics (connect to SQL).
+
+Day 52: CRUD operations (console + SQL).
+
+Day 53: SQLite integration.
+
+Day 54: Mini project → Expense Tracker with DB.
+
+Day 55: Intro to Entity Framework.
+
+Day 56: LINQ + EF.
+
+Day 57: Build a small API client (consume REST API).
+
+Day 58: JSON parsing from API.
+
+Day 59: Weather API app.
+
+Day 60: Mini project → Movie Info Finder (API).
+
+Day 61: Windows Forms intro.
+
+Day 62: Build Calculator GUI.
+
+Day 63: To-Do App GUI.
+
+Day 64: Contact Book GUI.
+
+Day 65: Expense Tracker GUI + DB.
+
+Day 66: Charts/Graphs with WinForms.
+
+Day 67: WPF intro (Hello World GUI).
+
+Day 68: WPF To-Do App.
+
+Day 69: WPF Media Player.
+
+Day 70: Mini project → Desktop Notes App.
+
+Day 71: Login/Register GUI with DB.
+
+Day 72: CRUD in GUI with DB.
+
+Day 73: Image viewer app.
+
+Day 74: File explorer GUI.
+
+Day 75: Mini project → Student Grading System with GUI + DB.
+
+Day 76: Explore Blazor basics.
+
+Day 77: Build a simple Blazor web app.
+
+Day 78: ASP.NET Core basics.
+
+Day 79: ASP.NET Core Web API.
+
+Day 80: Mini project → Blog API.
+
+Phase 4: Final Projects (Day 81–100)
+
+Day 81: Chat app with TCP/IP.
+
+Day 82: Multiplayer Tic Tac Toe (console).
+
+Day 83: GUI Tic Tac Toe.
+
+Day 84: Snake Game (console).
+
+Day 85: Flappy Bird clone (WPF).
+
+Day 86: Notes App with cloud sync (API + DB).
+
+Day 87: E-commerce CLI (cart, checkout).
+
+Day 88: GUI POS system.
+
+Day 89: File encryption/decryption tool.
+
+Day 90: Password manager app.
+
+Day 91: Weather Forecast GUI (API + charts).
+
+Day 92: Blog CMS (ASP.NET Core MVC).
+
+Day 93: REST API with authentication.
+
+Day 94: Realtime chat (SignalR).
+
+Day 95: Online polling app.
+
+Day 96: Mini social media app.
+
+Day 97: Smart Home Simulator (GUI + API).
+
+Day 98: Final project → Portfolio Management System.
+
+Day 99: Polish final projects (docs, README, GitHub setup).
+
+Day 100: 🎉 Publish all projects to GitHub & write a recap blog.

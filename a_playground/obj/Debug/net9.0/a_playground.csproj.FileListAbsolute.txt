@@ -1,0 +1,15 @@
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.AssemblyInfoInputs.cache
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.AssemblyInfo.cs
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.csproj.CoreCompileInputs.cache
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.sourcelink.json
+C:\Jay\100-days-of-csharp\a_playground\bin\Debug\net9.0\a_playground.exe
+C:\Jay\100-days-of-csharp\a_playground\bin\Debug\net9.0\a_playground.deps.json
+C:\Jay\100-days-of-csharp\a_playground\bin\Debug\net9.0\a_playground.runtimeconfig.json
+C:\Jay\100-days-of-csharp\a_playground\bin\Debug\net9.0\a_playground.dll
+C:\Jay\100-days-of-csharp\a_playground\bin\Debug\net9.0\a_playground.pdb
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.dll
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\refint\a_playground.dll
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.pdb
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\a_playground.genruntimeconfig.cache
+C:\Jay\100-days-of-csharp\a_playground\obj\Debug\net9.0\ref\a_playground.dll
