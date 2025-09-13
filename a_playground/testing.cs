@@ -11,8 +11,9 @@ namespace Playground
       char middle = 'S';
       bool my_bool = true;
       string name = "M-jay";
+      string lname = "Vergonio";
 
-      Console.WriteLine($"Hi, Im {name} {middle}. Vergonio, I'm {age} years of age. My height is {height:F2} and If you ask that I am currently studying my answer is {my_bool}! ");
+      Console.WriteLine($"Hi, Im {name} {middle}. {lname}, I'm {age} years of age. My height is {height:F2} and If you ask that I am currently studying my answer is {my_bool}! ");
     }
   }
 }
