@@ -1,0 +1,15 @@
+C:\Jay\100-days-of-csharp\multiple_file\bin\Debug\net9.0\multiple_file.exe
+C:\Jay\100-days-of-csharp\multiple_file\bin\Debug\net9.0\multiple_file.deps.json
+C:\Jay\100-days-of-csharp\multiple_file\bin\Debug\net9.0\multiple_file.runtimeconfig.json
+C:\Jay\100-days-of-csharp\multiple_file\bin\Debug\net9.0\multiple_file.dll
+C:\Jay\100-days-of-csharp\multiple_file\bin\Debug\net9.0\multiple_file.pdb
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.AssemblyInfoInputs.cache
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.AssemblyInfo.cs
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.csproj.CoreCompileInputs.cache
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.sourcelink.json
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.dll
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\refint\multiple_file.dll
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.pdb
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\multiple_file.genruntimeconfig.cache
+C:\Jay\100-days-of-csharp\multiple_file\obj\Debug\net9.0\ref\multiple_file.dll
